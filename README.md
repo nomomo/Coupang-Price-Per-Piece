@@ -33,7 +33,7 @@ Coupang-Price-Per-Piece 의 설치 방법을 설명합니다.
 - [Install](https://github.com/nomomo/Coupang-Price-Per-Piece/raw/main/Coupang-Price-Per-Piece.user.js) from [https://github.com/nomomo/Coupang-Price-Per-Piece/raw/main/Coupang-Price-Per-Piece.user.js](https://github.com/nomomo/Coupang-Price-Per-Piece/raw/main/Coupang-Price-Per-Piece.user.js)
 
 > 본 스크립트를 사용 시 제품이 많은 화면에서 잠깐 브라우저가 멈출 수 있습니다.
-> 주의: 본 스크립트를 설치 및 사용하며 브라우저 과부하로 인한 응답 없음/뻗음으로 인한 데이터 손실이나 기타 발생하는 다른 문제에 대하여 개발자는 책임지지 않음(보고된 문제는 없음)  
+> 주의: 본 스크립트를 설치 및 사용하며 브라우저 과부하로 인한 응답 없음/뻗음으로 인한 데이터 손실이나 본 스크립트 설치로 인해 발생하는 다른 문제에 대하여 개발자는 책임지지 않음(보고된 문제는 없음)  
 > Coupang 접속에 문제가 생기거나 클립 재생이 안 되는 문제 등이 발생하는 경우, Tampermonkey 의 관리 메뉴에서 이 스크립트를 끄거나 삭제해주세요.
 
 - 이것으로 설치는 끝입니다. 즐겁게 사용하세요~
