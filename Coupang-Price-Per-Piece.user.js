@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  쿠팡 개당 가격 계산기
 // @supportURL  https://github.com/nomomo/Coupang-Price-Per-Piece/issues
-// @homepage https://github.com/nomomo/Coupang-Price-Per-Piece/
+// @homepage    https://github.com/nomomo/Coupang-Price-Per-Piece
 // @downloadURL https://raw.githubusercontent.com/nomomo/Coupang-Price-Per-Piece/master/Coupang-Price-Per-Piece.user.js
 // @updateURL   https://raw.githubusercontent.com/nomomo/Coupang-Price-Per-Piece/master/Coupang-Price-Per-Piece.user.js
 // @author       Nomomo
